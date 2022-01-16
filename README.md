@@ -1,5 +1,7 @@
-### Hi I am Baraa, a Master's Thesis student at the University of Bonn. Since having a chronic disease, I am extra motivated to solve the problems of Healthcare using Deep Reinforcement Learning; to help patients having better quality life 👋
-- 🔭 I’m currently working as Research Assistant at InfAI on a project funded by EKFZ
+### Hi I am Baraa, a Master's Thesis student at the University of Bonn 👋 
+### Since having a chronic disease, I am extra motivated to solve the problems of Healthcare using Deep Reinforcement Learning, Causal Inference, and Uncertainity Methods; to help patients having better quality life.
+## 🤔 I am interested in Offline Reinforcement Learning, Causal Inference, Evidential Deep Learning, Uncertainity Methods, and Generative Models.
+- 🔭 **I’m currently working as Research Assistant at InfAI on a project funded by EKFZ**
     - **My responsibilities are**:
       1. Collecting the AI system requirements from Clinicians.
       2. Doing research and designing novel Deep Reinforcement Learning solutions to be published in the research venues.
@@ -17,6 +19,12 @@
        7. I set a routine of working in a certian time everyday, and of switching between the TODO tasks -to not get bored quickly-, to improve my productivity.
        8. My problem solving skills increased, as I was working on ill-defined problem.
        9. My debugging and troubleshooting skills increased, as I was debugging a very complex pipeline (that contains many layers).
+ - 🌱 **I’m currently learning Causal Inference and Uncertainity Methods (i.e Energy-based Models, Bayesian Models,and etc.)**
+ - 📫 How to reach me: <p align="center">
+    <a href="https://twitter.com/bezy92"><img src="https://img.shields.io/badge/twitter-%231FA1F1?style=flat&logo=twitter&logoColor=white"/></a>
+    <a href="https://www.linkedin.com/in/baraa-hassan-9899688a/"><img src="https://img.shields.io/badge/linkedin-%230177B5?style=flat&logo=linkedin&logoColor=white"/></a>
+    <a href="https://www.youtube.com/channel/UCDdVyigEmOPrTuUTCf64yAA"><img src="https://img.shields.io/badge/youtube-%23FF0000?style=flat&logo=youtube&logoColor=white"/></a>
+  </p>
 
 <!--
 **baraaHassan/baraaHassan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
