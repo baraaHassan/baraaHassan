@@ -1,6 +1,6 @@
 ### Hi I am Baraa, a Master's Thesis student at the University of Bonn 👋 
 ### Since having a chronic disease, I am extra motivated to solve the problems of Healthcare using Deep Reinforcement Learning, Causal Inference, and Uncertainity Methods; to help patients having better quality life.
-## 🤔 I am interested in Offline Reinforcement Learning, Causal Inference, Evidential Deep Learning, Uncertainity Methods, and Generative Models.
+## 🤔 I am interested in Deep Learning, Offline Reinforcement Learning, Causal Inference, Evidential Deep Learning, Uncertainity Methods, and Generative Models.
 - 🔭 **I’m currently working as Research Assistant at InfAI on a project funded by EKFZ**
     - **My responsibilities are**:
       1. Collecting the AI system requirements from Clinicians.
