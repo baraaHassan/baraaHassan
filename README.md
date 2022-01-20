@@ -21,13 +21,13 @@
        9. My debugging and troubleshooting skills increased, as I was debugging a very complex pipeline (that contains many layers).
  - 🌱 **I’m currently learning Causal Inference and Uncertainity Methods (i.e Energy-based Models, Bayesian Models,and etc.)**
  - 📫 How to reach me: <p align="center">
-    <a href="https://twitter.com/bezy92"><img src="https://img.shields.io/badge/twitter-%231FA1F1?style=flat&logo=twitter&logoColor=white"/></a>
+    <a href="https://medium.com/@baraa.alaa.eldin"><img src="https://img.shields.io/badge/Medium-12100E?style=flat&logo=medium&logoColor=white"/></a>
     <a href="https://www.linkedin.com/in/baraa-hassan-9899688a/"><img src="https://img.shields.io/badge/linkedin-%230177B5?style=flat&logo=linkedin&logoColor=white"/></a>
     <a href="https://www.youtube.com/channel/UCDdVyigEmOPrTuUTCf64yAA"><img src="https://img.shields.io/badge/youtube-%23FF0000?style=flat&logo=youtube&logoColor=white"/></a>
-    <a href="https://medium.com/@baraa.alaa.eldin"><img src="https://img.shields.io/badge/Medium-12100E?style=flat&logo=medium&logoColor=white"/></a>
   </p>
 
 <!--
+<a href="https://twitter.com/bezy92"><img src="https://img.shields.io/badge/twitter-%231FA1F1?style=flat&logo=twitter&logoColor=white"/></a>
 **baraaHassan/baraaHassan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
