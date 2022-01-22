@@ -9,6 +9,7 @@
       5. Daignosing and trouble shooting the whole pipeline (i.e from the raw data to the AI).
      - **Extra activities**
         1. Leading the Deep Reinforcement Learning reading group of InfAI AI team.
+        2. I am doing a podcast on my youtube channel, where I host interviews with the researchers from different fields; to talk about their research and their personal journey.
      - **What I learned during this position:**
        1. I learned how to learn a new topic without a prior knowledge about and with no supervision.
        2. I learned how do research.
