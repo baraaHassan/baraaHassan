@@ -7,12 +7,12 @@
       2. Doing research and designing novel Deep Reinforcement Learning solutions to be published in the research venues.
       3. Designing the architecutre of and developing the preprocessing pipeline, that connect the raw data from Hospital machines to the AI model.
       5. Daignosing and trouble shooting the whole pipeline (i.e from the raw data to the AI).
-     - **Extra activities**
+     - **Extra activities**:
         1. Leading the Deep Reinforcement Learning reading group of InfAI AI team.
         2. I am doing a podcast on my youtube channel, where I host interviews with the researchers from different fields; to talk about their research and their personal journey.
-     - **What I learned during this position:**
+     - **What I learned during this position**:
        1. I learned how to learn a new topic without a prior knowledge about and with no supervision.
-       2. I learned how do research.
+       2. I learned how to do research.
        3. I recorded in a manifest all the conferences, summer schools, colloquiums/seminars/symposiums, graduate courses, and institute/professors youtube channel/website/github related to the topic that I was working on (i.e Deep Reinforcement Learning in Healthcare).
        4. I have read many papers and many surveys related to the topic that I was working on.
        5. I attended 3 graduate courses related to the topic I was working on.
