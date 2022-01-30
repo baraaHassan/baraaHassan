@@ -16,13 +16,13 @@
         - Leading the Deep Reinforcement Learning reading group of InfAI AI team.
         - I am doing a podcast on my youtube channel, where I host interviews with the researchers from different fields; to talk about their research and their personal journey.
      - **What I learned during this position**:
-       - I learned how to learn a new topic without prior knowledge about and with no supervision.
+       - I learned how to learn a new topic without prior knowledge about.
        - I learned how to do research.
        - I recorded in a manifest all the conferences, summer schools, colloquiums/seminars/symposiums, graduate courses, and institute/professors youtube channel/website/github related to the topic that I was working on (i.e Deep Reinforcement Learning in Healthcare).
        - I have read many papers and many surveys related to the topic that I was working on.
        - I attended 3 graduate courses related to the topic I was working on.
        - I watched many conference tutorials and seminars while I was searching for new ideas.
-       - I set a routine of working in a certain time everyday, and of switching between the TODO tasks -to not get bored quickly-, to improve my productivity.
+       - I set a routine of working in a certain time everyday, and of switching between the TODO tasks -to keep the routine sustainable-, to improve my productivity.
        - My problem solving skills increased, as I was working on an ill-defined problem.
        - My debugging and troubleshooting skills increased, as I was debugging a very complex pipeline (that contains many layers).
 - 💪 **What I brought to the teams that I joined:**
