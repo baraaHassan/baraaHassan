@@ -1,6 +1,21 @@
-### Hi I am Baraa, a Master's Thesis student at the University of Bonn 👋 
-### Since having a chronic disease, I am extra motivated to solve the problems of Healthcare using Deep Reinforcement Learning, Causal Inference, and Uncertainity Methods; to help patients having better quality life.
-## 🤔 I am interested in Deep Learning, Offline Reinforcement Learning, Causal Inference, Evidential Deep Learning, Uncertainity Methods, and Generative Models.
+## Hi I am Baraa, a Master's student at the University of Bonn 👋 
+
+### About my repos
+#### I have here my projects that was done as a research projects (using real dataset), in addition to courses'/labs' projects (using public dataset).
+- Research projects:
+    - [Controlling Avatar Robot's Fingertips](https://github.com/baraaHassan/Controlling-Avatar-Robot-Fingertips): it is a repo for **Robotics** project.
+    - [Soccer Robot Perception](https://github.com/baraaHassan/Soccer_Robot_perception): it is a repo for **Computer Vision** project.
+    - [Machine Learning Ideas that I Drived](https://github.com/baraaHassan/Machine-Learning-Self-Implemented-Ideas): it is a repo for **unpublished Machine Learning** ideas that I derived by myself.
+- Courses/labs projects:
+    - [Computer Vision Course](https://github.com/baraaHassan/Computer_Vision_Course): it is **Computer Vision** (classical methods) projects that I did in the computer vision course.
+    - [Deep Learning using Pytorch Lab](https://github.com/baraaHassan/Deep-Learning-using-Pytorch-Lab): it is a repo for **Computer Vision** (Modern methods) projects, that I did in the Deep Learning for Computer Vision lab "AKA Cuda-vision lab".
+    - [Pattern Recognition](https://github.com/baraaHassan/Pattern-Recognition): it is a repo for **Computer Vision** (Advanced Machine learning methods) projects, that I did in the course Pattern Recognition II.
+    - [Game AI](https://github.com/baraaHassan/Game_AI): it is a repo for **Computer Vision** (Game AI methods) projects, that I did in the course Game AI.
+    - [zoom remove background](): it is a repo for **Computer Vision** project, that I did as an assignment in the Deep Learning course.
+
+### About me
+#### Since having a chronic disease, I am extra motivated to solve the problems of Healthcare using Deep Reinforcement Learning, Causal Inference, and Uncertainity Methods; to help patients having better quality life.
+#### 🤔 I am interested in Deep Learning, Offline Reinforcement Learning, Causal Inference, Evidential Deep Learning, Uncertainity Methods, and Generative Models.
 - 🔭 **I’m currently working as Research Assistant at InfAI on a project funded by EKFZ**
     - **My responsibilities are**:
       - Collecting the AI system requirements from Clinicians.
