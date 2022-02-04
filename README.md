@@ -10,8 +10,7 @@
     - [Computer Vision Course](https://github.com/baraaHassan/Computer_Vision_Course): it is **Computer Vision** (classical methods) projects that I did in the computer vision course.
     - [Deep Learning using Pytorch Lab](https://github.com/baraaHassan/Deep-Learning-using-Pytorch-Lab): it is a repo for **Computer Vision** (Modern methods) projects, that I did in the Deep Learning for Computer Vision lab "AKA Cuda-vision lab".
     - [Pattern Recognition](https://github.com/baraaHassan/Pattern-Recognition): it is a repo for **Computer Vision** (Advanced Machine learning methods) projects, that I did in the course Pattern Recognition II.
-    - [Game AI](https://github.com/baraaHassan/Game_AI): it is a repo for **Computer Vision** (Game AI methods) projects, that I did in the course Game AI.
-    - [zoom remove background](): it is a repo for **Computer Vision** project, that I did as an assignment in the Deep Learning course.
+    - [zoom remove background](https://github.com/baraaHassan/zoom-remove-background): it is a repo for **Computer Vision** project, that I did as an assignment in the Deep Learning course.
 
 ### About me
 #### Since having a chronic disease, I am extra motivated to solve the problems of Healthcare using Deep Reinforcement Learning, Causal Inference, and Uncertainity Methods; to help patients having better quality life.
