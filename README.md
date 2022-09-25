@@ -18,14 +18,15 @@
 #### 🤔 I am interested in Deep Learning, Offline Reinforcement Learning, Causal Inference, Evidential Deep Learning, Uncertainity Methods, and Generative Models.
 - 🔭 **I’m currently working as Research Assistant at InfAI on a project funded by EKFZ**
     - **My responsibilities are**:
-      - Collecting the AI system requirements from Clinicians.
-      - Designing and implementing the architecture of the data pipeline, that process the raw data coming from the hospital, and put it in the form of the input of the AI model. 
-      - Implementing algorithms to solve the medical data issues, such as imputing missing time points, inferring missing variables, detecting the noise in measurements and removing them, synchronizing the same data coming from different machines and prioritizing the most accurate one, and converting the different measurement units - of the same variable - to make same variables having same measurements.
-      - implementing algorithms to define the patients’ cohort, and ignoring non-critical cases.
-      - Doing research and proposing novel Deep Reinforcement Learning solutions to be published in the research venues.
-      - Diagnosing and troubleshooting the whole pipeline (i.e. from the raw data to the AI).
+      - Understanding the business (the medical background) via interacting with the stakeholders/clinicians.
+      - Understanding different datasets (i.e. collected in different countries by different teams) via performing data analysis/exploration. 
+      - Data preprocessing/preparation for solving medical data issues, I.g. imputing missing time
+points, inferring missing variables, anomaly detection, etc.
+      - implementing algorithms for defining the patients’ cohort, and ignoring non-critical cases.
+      - Implementing statistical methods for evaluating the data pereprocessing.
+      - Modeling the medical data using Deep Reinforcement algorithms.
       - Implementing statistical methods for mentoring the pipeline performance.
-      - Putting innovative ideas to optimize the entire pipeline, as the inference time is critical.
+      - Evaluating the Deep Reinforcement algorithms performance.
 
      - **Extra activities**:
         - Leading the Deep Reinforcement Learning reading group of InfAI AI team.
