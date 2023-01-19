@@ -1,6 +1,6 @@
-## Hi I am Baraa, a Master's student at the University of Bonn 👋 
+## Hi I am Baraa, a PhD student at the University of Bonn 👋 
 
-### About my repos
+<!-- ### About my repos
 #### I have here my projects that was done as a research projects (using real dataset), in addition to courses'/labs' projects (using public dataset).
 - Research projects:
     - [Controlling Avatar Robot's Fingertips](https://github.com/baraaHassan/Controlling-Avatar-Robot-Fingertips): it is a repo for **Robotics** project.
@@ -11,9 +11,9 @@
     - [Deep Learning using Pytorch Lab](https://github.com/baraaHassan/Deep-Learning-using-Pytorch-Lab): it is a repo for **Computer Vision** (Modern methods) projects, that I did in the Deep Learning for Computer Vision lab "AKA Cuda-vision lab".
     - [Pattern Recognition](https://github.com/baraaHassan/Pattern-Recognition): it is a repo for **Computer Vision** (Advanced Machine learning methods) projects, that I did in the course Pattern Recognition II.
     - [Game AI](https://github.com/baraaHassan/Game-AI-Course): it is a repo for **Computer Vision** (Game AI methods) projects, that I did in the course Game AI.
-    - [zoom remove background](https://github.com/baraaHassan/zoom-remove-background): it is a repo for **Computer Vision** project, that I did as an assignment in the Deep Learning course.
+    - [zoom remove background](https://github.com/baraaHassan/zoom-remove-background): it is a repo for **Computer Vision** project, that I did as an assignment in the Deep Learning course. -->
 
-### About me
+<!-- ### About me
 #### Since having a chronic disease, I am extra motivated to solve the problems of Healthcare using Deep Reinforcement Learning, Causal Inference, and Uncertainity Methods; to help patients having better quality life.
 #### 🤔 I am interested in Deep Learning, Offline Reinforcement Learning, Causal Inference, Evidential Deep Learning, Uncertainity Methods, and Generative Models.
 - 🔭 **I’m currently working as Research Assistant at InfAI on a project funded by EKFZ**
@@ -54,10 +54,10 @@ points, inferring missing variables, anomaly detection, etc.
     - I am passioned about Machine Learning, where I am following - on twitter and linkedin -, the pioneer researchers in the field, to be always up to date to all recent researches in the field. Besides, I always try to analyze the code of those new researches.
     - I am trying always to improve myself, and not stuck in a comfort zone with no further improvements
     - I am always invest time to learn -and plan- to improve my productivity, and my learning to learn skill.
-    - I have interpersonal skills, where I try always to keep a good relationship with my colleagues.``
+    - I have interpersonal skills, where I try always to keep a good relationship with my colleagues.`` -->
 
 
- - 🌱 **I’m currently learning Causal Inference and Uncertainity Methods (i.e Energy-based Models, Bayesian Models,and etc.)**
+<!--  - 🌱 **I’m currently learning Causal Inference and Uncertainity Methods (i.e Energy-based Models, Bayesian Models,and etc.)** -->
  - 📫 How to reach me: <p align="center">
     <a href="https://medium.com/@baraa.alaa.eldin"><img src="https://img.shields.io/badge/Medium-12100E?style=flat&logo=medium&logoColor=white"/></a>
     <a href="https://www.linkedin.com/in/baraa-hassan-9899688a/"><img src="https://img.shields.io/badge/linkedin-%230177B5?style=flat&logo=linkedin&logoColor=white"/></a>
