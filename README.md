@@ -1,4 +1,4 @@
-## Hi I am Baraa, a PhD student at the University of Bonn 👋 
+## Hi I am Baraa, a Research Associate at University Hospital Bonn 👋 
 
 <!-- ### About my repos
 #### I have here my projects that was done as a research projects (using real dataset), in addition to courses'/labs' projects (using public dataset).
